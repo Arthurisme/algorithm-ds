@@ -44,6 +44,17 @@ public class MammalInt implements Animal, MovedSystem {
 //        m.travel();
 
         Animal a = new MammalInt();
+        Animal a2 = new Animal() {
+            @Override
+            public void eat() {
+
+            }
+
+            @Override
+            public void travel() {
+
+            }
+        };
         a.print();
         a.eat();
         a.travel();

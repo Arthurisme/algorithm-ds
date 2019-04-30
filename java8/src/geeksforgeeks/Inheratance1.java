@@ -16,7 +16,8 @@ class Derived extends Base {
 
 public class Inheratance1 {
     public static void main(String[] args) {
-        Base b = new Derived();;
-        b.show();
+        Base b = new Derived();
+        Base b2 = new Base();
+        b2.show();
     }
 }
