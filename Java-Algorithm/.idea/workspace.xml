@@ -1,67 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bff9536-7961-4355-883b-cf76c3346bcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/META-INF/Java-Algorithm.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/ArrayListPointer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/ArrayListPointer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/Greetings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/Greetings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/ListPolymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/ListPolymorphism.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/Mammal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/Rabbit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/Rabbit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/Sellable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Certification/Sellable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/FunctionalInterface/FunctionalInterface$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/FunctionalInterface/FunctionalInterface$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/FunctionalInterface/FunctionalInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/FunctionalInterface/FunctionalInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Interface/DefaultInterface/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Interface/DefaultInterface/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Interface/DefaultInterface/MammalInt$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Interface/DefaultInterface/MammalInt$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Interface/DefaultInterface/MammalInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Interface/DefaultInterface/MammalInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Interface/DefaultInterface/MovedSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Interface/DefaultInterface/MovedSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/Addition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/Addition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTester$GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTester$GreetingService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTester$MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTester$MathOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription1$GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription1$GreetingService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription1$MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription1$MathOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription2$GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription2$GreetingService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription2$MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription2$MathOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$Addition3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$Addition3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$Dog1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$Dog1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$GreetingService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$Inner_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$Inner_Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3$MathOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Lambda/LambdaTesterDescription3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/MethodReference/MethodReference1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/MethodReference/MethodReference1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/OptionalClass/OptionalClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/OptionalClass/OptionalClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Stream/Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/Stream/Stream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/geeksforgeeks/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/geeksforgeeks/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/geeksforgeeks/Derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/geeksforgeeks/Derived.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/geeksforgeeks/Inheratance1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/java8/geeksforgeeks/Inheratance1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/leetcode/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/leetcode/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/leetcode/TwoSumB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/leetcode/TwoSumB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/leetcode/TwoSumC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/leetcode/TwoSumC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/abstract1/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/abstract1/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/abstract1/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/abstract1/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/abstract1/TestDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/abstract1/TestDog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/innerClass/My_class2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/innerClass/My_class2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/innerClass/Outer_Demo$Inner_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/innerClass/Outer_Demo$Inner_Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/innerClass/Outer_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/innerClass/Outer_Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/interface1/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/interface1/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/interface1/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/interface1/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/interface1/TestDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/interface1/TestDog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/overriding/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/overriding/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/overriding/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/overriding/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/overriding/TestDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/overriding/TestDog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/polymorphism/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/polymorphism/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/polymorphism/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/polymorphism/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/polymorphism/TestDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Algorithm/tutorialspoint/polymorphism/TestDog.class" afterDir="false" />
-    </list>
+    <list default="true" id="7bff9536-7961-4355-883b-cf76c3346bcc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/compareCSharp/Virtual.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="272">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding>
                 <element signature="e#295#296#0" expanded="true" />
                 <element signature="e#356#357#0" expanded="true" />
@@ -409,12 +349,12 @@
       <workItem from="1556758549766" duration="5676000" />
       <workItem from="1556804800750" duration="1039000" />
       <workItem from="1556936979880" duration="3398000" />
-      <workItem from="1560451488621" duration="1471000" />
+      <workItem from="1560451488621" duration="1805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11584000" />
+    <option name="totallyTimeSpent" value="11918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="47" width="1920" height="993" extended-state="0" />
@@ -591,8 +531,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/compareCSharp/Virtual.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="272">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
             <element signature="e#295#296#0" expanded="true" />
             <element signature="e#356#357#0" expanded="true" />

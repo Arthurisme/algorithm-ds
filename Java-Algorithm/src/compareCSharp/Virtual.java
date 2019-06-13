@@ -22,10 +22,26 @@ class MyDog extends Dog{
         System.out.println("woof2b");
     }
 }
+
+
+class A{
+    void sayhi(){ System.out.println("A");}
+}
+class B extends A{
+    void sayhi(){ System.out.println("B");}
+}
+
+
+
+
 public class Virtual  {
     public static void main(String[] args) {
         MyDog myDog = new MyDog();       //instantiating myDog
        // myDog.jump();                    //calling the overridden function jump()
-        myDog.bark2();
+        //myDog.bark2();
+
+
+        A a = new A();
+        a.sayhi();
     }
 }
