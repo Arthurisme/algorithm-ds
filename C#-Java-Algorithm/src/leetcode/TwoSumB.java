@@ -31,6 +31,9 @@ public class TwoSumB {
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
 
+            System.out.println("map.get(" + i +"),"+ map.get(i));
+
+
             System.out.println(map.containsValue(complement));
             System.out.println(map.get(i));
 
@@ -58,7 +61,7 @@ public class TwoSumB {
         int[] numbers = {2, 7, 11, 15};
 
         TwoSumB twoSum = new TwoSumB();
-        int[] returnIntArray = twoSum.calculateTwoSum(numbers, 9);
+        int[] returnIntArray = twoSum.calculateTwoSum(numbers, 26);
         System.out.println(returnIntArray[0]);
         System.out.println(returnIntArray[1]);
 
