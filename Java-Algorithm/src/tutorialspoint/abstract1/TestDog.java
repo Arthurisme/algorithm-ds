@@ -30,5 +30,8 @@ public class TestDog {
 //        Dog d2 = new Animal();
 //        d2.move();
 
+//        Dog d3 = (Dog)a;
+        Animal a4 = (Animal) d;
+
     }
 }
